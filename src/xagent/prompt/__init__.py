@@ -1,0 +1,1 @@
+from xagent.prompt.prompt import DEFAULT_PROMPT
