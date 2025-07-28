@@ -17,7 +17,9 @@ export PYTHONPATH={path}/xagent/src
 
 ```python
 export DashScope_API_KEY="YOUR_API_KEY"
+```
 
+```python
 from xagent.agent import Agent 
 from xagent.models import DashScope
 from xagent.tools import calculate,docs_calculate
