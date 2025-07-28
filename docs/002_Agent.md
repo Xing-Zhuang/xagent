@@ -1,7 +1,7 @@
  
 ## **Custom tool**
-Your can write tool by yourself,for example:
-
+In addition to using the built-in tools of xagent,you can write tool by yourself.
+For example:
 ```python
 from xagent.agent import Agent 
 from xagent.models import DashScope
