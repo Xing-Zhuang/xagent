@@ -1,0 +1,9 @@
+modelscope
+transformers
+datasets
+peft
+accelerate
+pandas
+addict
+scikit-learn
+deepspeed
