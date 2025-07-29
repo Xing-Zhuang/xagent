@@ -1,0 +1,31 @@
+# Medical RAG Dataset
+
+## Document 1: Diabetes Mellitus
+Diabetes mellitus is a chronic metabolic disorder characterized by high blood glucose levels due to defects in insulin secretion, insulin action, or both. There are two main types: Type 1 diabetes, an autoimmune condition where the body does not produce insulin, and Type 2 diabetes, which results from insulin resistance and relative insulin deficiency. Common symptoms include polyuria, polydipsia, weight loss, and fatigue. Management includes lifestyle modification, oral hypoglycemics, and insulin therapy.
+
+## Document 2: Hypertension
+Hypertension, or high blood pressure, is defined as a systolic blood pressure ≥140 mmHg and/or diastolic blood pressure ≥90 mmHg. It is a major risk factor for cardiovascular diseases, stroke, and kidney failure. Primary (essential) hypertension has no identifiable cause, while secondary hypertension can result from kidney disease, endocrine disorders, or medications. Treatment includes lifestyle changes (e.g., low-sodium diet, exercise) and antihypertensive drugs such as ACE inhibitors, beta-blockers, and diuretics.
+
+## Document 3: Myocardial Infarction
+Myocardial infarction (MI), commonly known as a heart attack, occurs when blood flow to a part of the heart is blocked, usually by a blood clot in a coronary artery. This leads to ischemia and necrosis of cardiac muscle tissue. Typical symptoms include chest pain radiating to the left arm or jaw, shortness of breath, nausea, and diaphoresis. Diagnosis is confirmed by ECG changes and elevated cardiac biomarkers (e.g., troponin). Immediate treatment includes aspirin, nitroglycerin, oxygen, and reperfusion therapy (e.g., PCI or thrombolytics).
+
+## Document 4: Asthma
+Asthma is a chronic inflammatory disease of the airways characterized by variable and recurring symptoms, airflow obstruction, and bronchial hyperresponsiveness. Common triggers include allergens, exercise, cold air, and respiratory infections. Symptoms include wheezing, coughing, chest tightness, and shortness of breath. Management involves avoiding triggers, using inhaled corticosteroids for long-term control, and short-acting beta-agonists (e.g., albuterol) for acute relief.
+
+## Document 5: Antibiotic: Amoxicillin
+Amoxicillin is a broad-spectrum penicillin antibiotic used to treat bacterial infections such as sinusitis, pneumonia, urinary tract infections, and otitis media. It works by inhibiting bacterial cell wall synthesis. Common side effects include diarrhea, nausea, and rash. It is contraindicated in patients with a history of penicillin allergy. Amoxicillin is often combined with clavulanic acid (as Augmentin) to overcome beta-lactamase-producing bacteria.
+
+## Document 6: Diagnostic Test: Complete Blood Count (CBC)
+A complete blood count (CBC) is a common blood test that evaluates overall health and detects a wide range of disorders, including anemia, infection, and leukemia. It measures several components: red blood cells (RBC), hemoglobin, hematocrit, white blood cell count (WBC), and platelets. Abnormal results may indicate infection (elevated WBC), anemia (low hemoglobin), or thrombocytopenia (low platelets), guiding further diagnostic workup.
+
+## Document 7: Alzheimer's Disease
+Alzheimer's disease is a progressive neurodegenerative disorder and the most common cause of dementia. It is characterized by the accumulation of amyloid-beta plaques and neurofibrillary tangles in the brain. Early symptoms include memory loss, confusion, and difficulty with language. As the disease progresses, patients may experience behavioral changes and loss of independence. There is no cure, but medications like donepezil and memantine may help manage symptoms.
+
+## Document 8: Vaccination: Influenza Vaccine
+The influenza vaccine is recommended annually to protect against seasonal flu viruses. It is available in various forms, including inactivated, recombinant, and live attenuated vaccines. The vaccine is especially important for high-risk groups such as the elderly, young children, pregnant women, and individuals with chronic illnesses. While effectiveness varies each year, vaccination reduces the risk of severe illness, hospitalization, and death.
+
+## Document 9: Appendicitis
+Appendicitis is the inflammation of the appendix, a small pouch attached to the large intestine. It typically presents with periumbilical pain that migrates to the right lower quadrant (McBurney's point), accompanied by nausea, vomiting, and low-grade fever. Diagnosis is based on clinical evaluation, blood tests (elevated WBC), and imaging (e.g., ultrasound or CT scan). The standard treatment is appendectomy, either laparoscopic or open surgery.
+
+## Document 10: Depression
+Depression, or major depressive disorder, is a common mental health condition characterized by persistent sadness, loss of interest, fatigue, sleep disturbances, and feelings of worthlessness. It can significantly impair daily functioning. Diagnosis is clinical, based on criteria from the DSM-5. Treatment options include psychotherapy (e.g., CBT), antidepressant medications (e.g., SSRIs like sertraline), and lifestyle interventions. Severe cases may require hospitalization or electroconvulsive therapy (ECT).

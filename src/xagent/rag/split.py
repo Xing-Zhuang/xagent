@@ -39,7 +39,7 @@ class CharacterSplit:
 class RowSplit:
     def __init__(
         self,
-        chunk_row_size:int,
+        chunk_row_size:int=1,
         chunk_overlap:int=0
     ):
         self.chunk_row_size=chunk_row_size
